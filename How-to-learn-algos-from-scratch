@@ -1,0 +1,58 @@
+
+How can I learn algorithms and data structures from scratch?
+
+Author: Robin Thomas
+
+Day −∞ to 0: Stick to a programming language like C or C++. Make sure that you are comfortable with pointers/objects.
+
+Day 1: Understand the concept of Algorithmic complexity. Skip the theory for now, but for every piece of code you write, you should be able to derive both time and space complexity.
+
+Day 2 - 10: Let’s start with some simple data structures,
+
+Arrays
+Linked Lists
+Strings
+Stacks
+Queues
+Understand their basic operations (insert, delete, search, traversal) and their complexity - Big-O Algorithm Complexity Cheat Sheet, and code them all.
+https://www.bigocheatsheet.com/
+
+Day 11 - 25: Let’s now learn some simple algorithms, (read wiki)
+
+Sorting - Insertion sort, Merge sort, Quick sort, Heap sort, Bucket sort, Counting sort, Radix sort, External sorting
+Search - Linear search, Binary Search -  https://www.topcoder.com/thrive/articles/Binary%20Search  (along with its variants).
+
+Prime Numbers - Sieve of Eratosthenes, Primality test
+Strings - String searching, LCS - https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
+, Palindrome detection https://www.rosettacode.org/wiki/Palindrome_detection
+
+Miscellaneous - Euclidean algorithm, Matrix multiplication, Fibonacci Numbers - https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Fibonacci_Number_Program
+Pascal's Triangle - https://www.geeksforgeeks.org/pascal-triangle/ , Max Subarray problem
+
+Day 26 - 50: Once you are comfortable with everything above, start doing problems from,
+
+Cracking the Coding Interview - https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
+Elements of Programming Interviews - https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836
+Programming Interviews Exposed: Secrets to Landing Your Next Job - https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364
+GeeksforGeeks - https://www.geeksforgeeks.org/
+HackerRank - https://www.hackerrank.com/products/main/
+InterviewBit  - https://www.interviewbit.com/invite/afaf/
+
+Stick to chapters of arrays, linked lists, strings, stacks, queues and complexity.
+
+Day 51 - 60: Let’s learn some non-linear data structures,
+
+Tree
+Binary Tree, Binary Search Tree - Tree traversals, Lowest common ancestor, Depth, 
+Height & Diameter - https://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
+Finding k-th smallest element - https://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/
+Heaps
+Hash table - 4 sum problem, Checking if sudoku solution is valid - https://stackoverflow.com/questions/5484629/check-if-sudoku-solution-is-valid
+Graph - Breadth-first search, Depth-first search, Topological sorting, Minimum spanning tree, Shortest path problem,
+Day 61- 90: Refer to the previous resources and start doing problems from trees, hash tables, heaps and graphs.
+
+Day 91 - 100: Understand Computational complexity theory and NP-completeness, Knapsack problem, Travelling salesman problem, SAT problem and so on.
+
+Day 101 - ∞: You are now better than most of the CS undergrads. Keep revising the above topics and start competitive programming! Good luck!
+
+Thanks for the A2A Meghna Bhasin
